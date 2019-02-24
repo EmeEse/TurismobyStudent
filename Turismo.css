@@ -1,0 +1,104 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+    background: #f6f6f6;
+
+}
+menu {
+  padding: 0px;
+  font-size: 2vw;
+  font-family: 'Roboto', sans-serif;
+}
+#carousel{
+  position: relative;
+  filter: grayscale(30%);
+}
+#carousel .overlay .container,
+#carousel .overlay .container .row{
+  height: 100%;
+}
+#carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0 0 0 2);
+  font-size: 200%;
+  color: white;
+}
+main h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 4vw;
+}
+
+#tituloCard {
+color: #0088b6;
+}
+#presentaLugares1{
+  padding: 0px;
+  font-size: 3.5vw;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0.2vw;
+
+}
+#presentaLugares2{
+  font-size: 2vw;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+#Question,
+#Bed,
+#Food,
+#We,
+#CityTours,
+#Come {
+
+  padding:0;
+
+}
+#Question{
+  font-size: 4vw;
+  font-family: 'Roboto', sans-serif;
+}
+#Whatwedo{
+  font-family: 'Indie Flower', cursive;
+
+}
+#We {
+  padding: 25px;
+  font-size:35px;
+}
+
+#EquipoAR{
+  color: white;
+  background: #0088b6;
+  margin-bottom: 2vw;
+}
+
+
+#Question2{
+    font-size: 3vw;
+    font-family: 'Roboto', sans-serif;
+}
+#Question3{
+  font-size: 1.5vw;
+  font-family: 'Roboto', sans-serif;
+}
+
+main img{
+  height: 45vw;
+  object-fit: cover;
+
+}
+#Footer{
+  background-color: #323232;
+  color: white;
+}
+#Contactenos {
+
+  font-size: 2vw;
+}
